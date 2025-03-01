@@ -1,0 +1,1 @@
+<h1>/season/:id/:seasonNum</h1>
