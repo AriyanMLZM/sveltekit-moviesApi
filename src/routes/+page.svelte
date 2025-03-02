@@ -1,1 +1,3 @@
-<h1 class="text-primary">home</h1>
+<script lang="ts">
+  import Error from "$lib/Error.svelte";
+</script>
