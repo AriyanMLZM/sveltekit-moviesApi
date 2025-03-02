@@ -1,1 +1,1 @@
-<h1>home</h1>
+<h1 class="text-primary">home</h1>
