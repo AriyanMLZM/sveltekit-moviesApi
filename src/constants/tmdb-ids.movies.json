@@ -1,0 +1,654 @@
+[{
+  "title": "(500) Days of Summer",
+  "input_title": "500 Days of Summer",
+  "year": "2009-07-17",
+  "id": "19913"
+},
+{
+  "title": "300",
+  "input_title": "300",
+  "year": "2007-03-07",
+  "id": "1271"
+},
+{
+  "title": "9",
+  "input_title": "9",
+  "year": "2009-08-19",
+  "id": "12244"
+},
+{
+  "title": "A Dangerous Method",
+  "input_title": "A Dangerous Method",
+  "year": "2011-09-30",
+  "id": "48231"
+},
+{
+  "title": "A Man Called Otto",
+  "input_title": "A Man Called Otto",
+  "year": "2022-12-28",
+  "id": "937278"
+},
+{
+  "title": "Alien: Romulus",
+  "input_title": "Alien Romulus",
+  "year": "2024-08-13",
+  "id": "945961"
+},
+{
+  "title": "All Quiet on the Western Front",
+  "input_title": "All Quiet On The Western Front",
+  "year": "2022-10-07",
+  "id": "49046"
+},
+{
+  "title": "American Pie",
+  "input_title": "American Pie",
+  "year": "1999-07-09",
+  "id": "2105"
+},
+{
+  "title": "American Pie 2",
+  "input_title": "American Pie 2",
+  "year": "2001-08-10",
+  "id": "2770"
+},
+{
+  "title": "American Reunion",
+  "input_title": "American Reunion",
+  "year": "2012-04-04",
+  "id": "71552"
+},
+{
+  "title": "American Wedding",
+  "input_title": "American Wedding",
+  "year": "2003-08-01",
+  "id": "8273"
+},
+{
+  "title": "Asteroid City",
+  "input_title": "Asteroid City",
+  "year": "2023-06-08",
+  "id": "747188"
+},
+{
+  "title": "Black Swan",
+  "input_title": "Black Swan",
+  "year": "2010-12-03",
+  "id": "44214"
+},
+{
+  "title": "Blade Runner 2049",
+  "input_title": "Blade Runner 2049",
+  "year": "2017-10-04",
+  "id": "335984"
+},
+{
+  "title": "Brothers",
+  "input_title": "Brothers",
+  "year": "2009-12-02",
+  "id": "7445"
+},
+{
+  "title": "Chicken Run: Dawn of the Nugget",
+  "input_title": "Chicken Run Dawn of the Nugget",
+  "year": "2023-12-08",
+  "id": "520758"
+},
+{
+  "title": "Christiane F.",
+  "input_title": "Christiane F.",
+  "year": "1981-04-02",
+  "id": "9589"
+},
+{
+  "title": "Chronicle",
+  "input_title": "Chronicle",
+  "year": "2012-02-01",
+  "id": "76726"
+},
+{
+  "title": "Cocaine Bear",
+  "input_title": "Cocaine Bear",
+  "year": "2023-02-22",
+  "id": "804150"
+},
+{
+  "title": "Detachment",
+  "input_title": "Detachment",
+  "year": "2011-04-24",
+  "id": "74308"
+},
+{
+  "title": "Django Unchained",
+  "input_title": "Django Unchained",
+  "year": "2012-12-25",
+  "id": "68718"
+},
+{
+  "title": "Donnie Darko",
+  "input_title": "Donnie Darko",
+  "year": "2001-01-19",
+  "id": "141"
+},
+{
+  "title": "Dune",
+  "input_title": "Dune 1",
+  "year": "2021-09-15",
+  "id": "438631"
+},
+{
+  "title": "Dune: Part Two",
+  "input_title": "Dune 2",
+  "year": "2024-02-27",
+  "id": "693134"
+},
+{
+  "title": "Elemental",
+  "input_title": "Elemental",
+  "year": "2023-06-14",
+  "id": "976573"
+},
+{
+  "title": "Eternal Sunshine of the Spotless Mind",
+  "input_title": "Eternal Sunshine of the Spotless Mind",
+  "year": "2004-03-19",
+  "id": "38"
+},
+{
+  "title": "Evil Dead",
+  "input_title": "Evil Dead",
+  "year": "2013-04-05",
+  "id": "109428"
+},
+{
+  "title": "Follow Me",
+  "input_title": "Follow Me",
+  "year": "2020-07-03",
+  "id": "606625"
+},
+{
+  "title": "Friends: The Reunion",
+  "input_title": "Friends The Reunion",
+  "year": "2021-05-27",
+  "id": "691179"
+},
+{
+  "title": "Girl, Interrupted",
+  "input_title": "Girl Interrupted",
+  "year": "1999-12-21",
+  "id": "3558"
+},
+{
+  "title": "Godzilla Minus One",
+  "input_title": "Godzilla Minus One",
+  "year": "2023-11-03",
+  "id": "940721"
+},
+{
+  "title": "Guardians of the Galaxy Vol. 3",
+  "input_title": "Guardians of the Galaxy Vol 3",
+  "year": "2023-05-03",
+  "id": "447365"
+},
+{
+  "title": "I Am Sam",
+  "input_title": "I Am Sam",
+  "year": "2001-12-28",
+  "id": "10950"
+},
+{
+  "title": "I.S.S.",
+  "input_title": "I.S.S.",
+  "year": "2024-01-19",
+  "id": "790462"
+},
+{
+  "title": "In the Name of the King: A Dungeon Siege Tale",
+  "input_title": "In The Name of The King: A Dungeon Siege Tale",
+  "year": "2007-11-29",
+  "id": "2312"
+},
+{
+  "title": "Insidious: The Red Door",
+  "input_title": "Insidious The Red Door",
+  "year": "2023-07-05",
+  "id": "614479"
+},
+{
+  "title": "Insomnia",
+  "input_title": "Insomnia",
+  "year": "2002-05-24",
+  "id": "320"
+},
+{
+  "title": "Joker",
+  "input_title": "Joker",
+  "year": "2019-10-01",
+  "id": "475557"
+},
+{
+  "title": "Joker: Folie à Deux",
+  "input_title": "Joker Folie a Deux",
+  "year": "2024-10-01",
+  "id": "889737"
+},
+{
+  "title": "Kingdom of Heaven",
+  "input_title": "Kingdom of Heaven",
+  "year": "2005-05-03",
+  "id": "1495"
+},
+{
+  "title": "Limitless",
+  "input_title": "Limitless",
+  "year": "2011-03-17",
+  "id": "51876"
+},
+{
+  "title": "Léon: The Professional",
+  "input_title": "Leon The Professional",
+  "year": "1994-09-14",
+  "id": "101"
+},
+{
+  "title": "M3GAN",
+  "input_title": "M3GAN",
+  "year": "2022-12-28",
+  "id": "536554"
+},
+{
+  "title": "Manchester by the Sea",
+  "input_title": "Manchester By The Sea",
+  "year": "2016-11-17",
+  "id": "334541"
+},
+{
+  "title": "Mary and Max",
+  "input_title": "Mary and Max",
+  "year": "2009-04-09",
+  "id": "24238"
+},
+{
+  "title": "Mass",
+  "input_title": "Mass",
+  "year": "2021-10-08",
+  "id": "423333"
+},
+{
+  "title": "Memento",
+  "input_title": "Memento",
+  "year": "2000-10-11",
+  "id": "77"
+},
+{
+  "title": "Memoir of a Snail",
+  "input_title": "Memoir of A Snail",
+  "year": "2024-10-17",
+  "id": "1064486"
+},
+{
+  "title": "Mrs. Doubtfire",
+  "input_title": "Mrs. Doubtfire",
+  "year": "1993-11-24",
+  "id": "788"
+},
+{
+  "title": "My Fault",
+  "input_title": "My Fault",
+  "year": "2023-06-08",
+  "id": "1010581"
+},
+{
+  "title": "Napoleon",
+  "input_title": "Napoleon",
+  "year": "2023-11-22",
+  "id": "753342"
+},
+{
+  "title": "Old",
+  "input_title": "Old",
+  "year": "2021-07-21",
+  "id": "631843"
+},
+{
+  "title": "Oppenheimer",
+  "input_title": "Oppenheimer",
+  "year": "2023-07-19",
+  "id": "872585"
+},
+{
+  "title": "Paris, Texas",
+  "input_title": "Paris Texas",
+  "year": "1984-07-16",
+  "id": "655"
+},
+{
+  "title": "Prey",
+  "input_title": "Prey",
+  "year": "2022-08-02",
+  "id": "766507"
+},
+{
+  "title": "Prisoners",
+  "input_title": "Prisoners",
+  "year": "2013-09-19",
+  "id": "146233"
+},
+{
+  "title": "Rango",
+  "input_title": "Rango",
+  "year": "2011-03-02",
+  "id": "44896"
+},
+{
+  "title": "Recep Ivedik 2",
+  "input_title": "Recep Ivedik 2",
+  "year": "2009-02-13",
+  "id": "31061"
+},
+{
+  "title": "Recep Ivedik 3",
+  "input_title": "Recep Ivedik 3",
+  "year": "2010-02-12",
+  "id": "32926"
+},
+{
+  "title": "Recep Ivedik 4",
+  "input_title": "Recep Ivedik 4",
+  "year": "2014-02-20",
+  "id": "257343"
+},
+{
+  "title": "Recep Ivedik 5",
+  "input_title": "Recep Ivedik 5",
+  "year": "2017-02-16",
+  "id": "438703"
+},
+{
+  "title": "Recep Ivedik 6",
+  "input_title": "Recep Ivedik 6",
+  "year": "2019-11-07",
+  "id": "625489"
+},
+{
+  "title": "Recep Ivedik 7",
+  "input_title": "Recep Ivedik 7",
+  "year": "2022-12-09",
+  "id": "952062"
+},
+{
+  "title": "Recep İvedik",
+  "input_title": "Recep Ivedik 1",
+  "year": "2008-02-22",
+  "id": "31060"
+},
+{
+  "title": "Repulsion",
+  "input_title": "Repulsion",
+  "year": "1965-06-01",
+  "id": "11481"
+},
+{
+  "title": "Requiem for a Dream",
+  "input_title": "Requiem for a Dream",
+  "year": "2000-10-06",
+  "id": "641"
+},
+{
+  "title": "Reservoir Dogs",
+  "input_title": "Reservoir Dogs",
+  "year": "1992-09-02",
+  "id": "500"
+},
+{
+  "title": "Room",
+  "input_title": "Room",
+  "year": "2015-10-16",
+  "id": "264644"
+},
+{
+  "title": "Saw",
+  "input_title": "Saw",
+  "year": "2004-10-01",
+  "id": "176"
+},
+{
+  "title": "Saw II",
+  "input_title": "Saw II",
+  "year": "2005-10-28",
+  "id": "215"
+},
+{
+  "title": "Scott Pilgrim vs. the World",
+  "input_title": "Scott Pilgrim vs The World",
+  "year": "2010-08-12",
+  "id": "22538"
+},
+{
+  "title": "Se7en",
+  "input_title": "Se7en",
+  "year": "1995-09-22",
+  "id": "807"
+},
+{
+  "title": "Seven Pounds",
+  "input_title": "Seven Pounds",
+  "year": "2008-12-18",
+  "id": "11321"
+},
+{
+  "title": "Shutter Island",
+  "input_title": "Shutter Island",
+  "year": "2010-02-14",
+  "id": "11324"
+},
+{
+  "title": "Sijjin",
+  "input_title": "Siccin",
+  "year": "2014-09-26",
+  "id": "334175"
+},
+{
+  "title": "Small Things Like These",
+  "input_title": "Small Things Like These",
+  "year": "2024-11-01",
+  "id": "1102493"
+},
+{
+  "title": "Society of the Snow",
+  "input_title": "Society of the Snow",
+  "year": "2023-12-15",
+  "id": "906126"
+},
+{
+  "title": "Sound of Freedom",
+  "input_title": "Sound of Freedom",
+  "year": "2023-07-03",
+  "id": "678512"
+},
+{
+  "title": "Spider-Man: Across the Spider-Verse",
+  "input_title": "Spider-Man Across the Spider-Verse",
+  "year": "2023-05-31",
+  "id": "569094"
+},
+{
+  "title": "Stay",
+  "input_title": "Stay",
+  "year": "2005-09-24",
+  "id": "8066"
+},
+{
+  "title": "Still Alice",
+  "input_title": "Still Alice",
+  "year": "2014-12-05",
+  "id": "284293"
+},
+{
+  "title": "Talk to Me",
+  "input_title": "Talk to Me",
+  "year": "2023-07-26",
+  "id": "1008042"
+},
+{
+  "title": "The Addams Family",
+  "input_title": "Addams Family",
+  "year": "1991-11-22",
+  "id": "2907"
+},
+{
+  "title": "The Addams Family",
+  "input_title": "Addams Family",
+  "year": "2019-10-10",
+  "id": "481084"
+},
+{
+  "title": "The Addams Family 2",
+  "input_title": "Addams Family 2",
+  "year": "2021-10-01",
+  "id": "639721"
+},
+{
+  "title": "The Aviator",
+  "input_title": "The Aviator",
+  "year": "2004-12-17",
+  "id": "2567"
+},
+{
+  "title": "The Creator",
+  "input_title": "The Creator",
+  "year": "2023-09-27",
+  "id": "670292"
+},
+{
+  "title": "The Fabelmans",
+  "input_title": "Fabelmans",
+  "year": "2022-11-11",
+  "id": "804095"
+},
+{
+  "title": "The Grey",
+  "input_title": "The Grey",
+  "year": "2012-01-26",
+  "id": "75174"
+},
+{
+  "title": "The Hobbit: An Unexpected Journey",
+  "input_title": "The Hobbit: An Unexpected Journey",
+  "year": "2012-12-12",
+  "id": "49051"
+},
+{
+  "title": "The Hobbit: The Battle of the Five Armies",
+  "input_title": "The Hobbit: The Battle of the Five Armies",
+  "year": "2014-12-10",
+  "id": "122917"
+},
+{
+  "title": "The Hobbit: The Desolation of Smaug",
+  "input_title": "The Hobbit: The Desolation of Smaug",
+  "year": "2013-12-11",
+  "id": "57158"
+},
+{
+  "title": "The Killer",
+  "input_title": "The Killer",
+  "year": "2023-10-25",
+  "id": "800158"
+},
+{
+  "title": "The King's Speech",
+  "input_title": "The Kings Speech",
+  "year": "2010-11-26",
+  "id": "45269"
+},
+{
+  "title": "The Little Hours",
+  "input_title": "The Little Hours",
+  "year": "2017-06-30",
+  "id": "411873"
+},
+{
+  "title": "The Orphanage",
+  "input_title": "The Orphanage",
+  "year": "2007-05-20",
+  "id": "6537"
+},
+{
+  "title": "The Pale Blue Eye",
+  "input_title": "Pale Blue Eye",
+  "year": "2022-12-22",
+  "id": "800815"
+},
+{
+  "title": "The Platform 2",
+  "input_title": "The Platform 2",
+  "year": "2024-09-27",
+  "id": "1125510"
+},
+{
+  "title": "The Prestige",
+  "input_title": "Prestige",
+  "year": "2006-10-17",
+  "id": "1124"
+},
+{
+  "title": "The Shawshank Redemption",
+  "input_title": "Shawshank Redemption",
+  "year": "1994-09-23",
+  "id": "278"
+},
+{
+  "title": "The Silence of the Lambs",
+  "input_title": "Silence of the Lambs",
+  "year": "1991-02-14",
+  "id": "274"
+},
+{
+  "title": "The Substance",
+  "input_title": "The Substance",
+  "year": "2024-09-07",
+  "id": "933260"
+},
+{
+  "title": "The Way Back",
+  "input_title": "The Way Back",
+  "year": "2010-11-22",
+  "id": "49009"
+},
+{
+  "title": "The Whale",
+  "input_title": "The Whale",
+  "year": "2022-12-09",
+  "id": "785084"
+},
+{
+  "title": "Trainspotting",
+  "input_title": "Trainspotting",
+  "year": "1996-02-23",
+  "id": "627"
+},
+{
+  "title": "Truth or Dare",
+  "input_title": "Truth or Dare",
+  "year": "2018-04-12",
+  "id": "460019"
+},
+{
+  "title": "World War Z",
+  "input_title": "World War Z",
+  "year": "2013-06-19",
+  "id": "72190"
+},
+{
+  "title": "You People",
+  "input_title": "You People",
+  "year": "2023-01-20",
+  "id": "866413"
+},
+{
+  "title": "Zodiac",
+  "input_title": "Zodiac",
+  "year": "2007-03-02",
+  "id": "1949"
+}]
