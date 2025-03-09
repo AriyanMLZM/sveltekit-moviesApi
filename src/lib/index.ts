@@ -13,6 +13,7 @@ import MovieInfo from './MovieInfo.svelte'
 import Seasons from './Seasons.svelte'
 import TvInfo from './TvInfo.svelte'
 import Networks from './Networks.svelte'
+import EpisodesList from './EpisodesList.svelte'
 
 export {
 	Navbar,
@@ -30,4 +31,5 @@ export {
 	Seasons,
 	TvInfo,
 	Networks,
+	EpisodesList,
 }

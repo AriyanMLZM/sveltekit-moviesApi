@@ -10,6 +10,8 @@
 	} from '$lib'
 	import type { IApiMovie } from '../../../types/index.svelte'
 
+	let docTitle = 'Loading...'
+
 	const getData = async () => {
 		const resTmdb = await fetch(
 			`https://api.themoviedb.org/3/movie/${page.params.id}?api_key=${import.meta.env.VITE_TMDB_API_KEY}`
@@ -27,6 +29,7 @@
 			tagline,
 		} = (await resTmdb.json()) as IApiMovie
 
+		docTitle = title
 		return {
 			title,
 			releaseDate,
@@ -51,6 +54,10 @@
 		return { directors, actors: cast }
 	}
 </script>
+
+<svelte:head>
+	<title>{docTitle}</title>
+</svelte:head>
 
 {#await getData()}
 	<Loader />

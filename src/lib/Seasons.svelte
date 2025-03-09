@@ -3,8 +3,6 @@
 	import { Image } from './'
 	export let seasons: ISeason[]
 	export let id: string
-
-	console.log(seasons)
 </script>
 
 <section
